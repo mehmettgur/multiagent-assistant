@@ -1,0 +1,1 @@
+[2025-04-04 16:24:32] Scheduled Event (Simulated): Subject='Discuss CrewAI', Attendees='me, colleague@example.com', Time='tomorrow afternoon', Duration='30 minutes'

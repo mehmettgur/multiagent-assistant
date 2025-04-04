@@ -1,6 +1,1 @@
-[2025-04-03 15:13] - Prepare presentation on Autogen
-[2025-04-03 15:16] - Prepare presentation on Autogen
-[2025-04-03 15:24] - Prepare presentation on Autogen
-[2025-04-04 10:28] - Prepare presentation on Autogen
-[2025-04-04 10:47] - Prepare presentation on Autogen
-[2025-04-04 11:15] - Prepare presentation on Autogen
+[2025-04-04 16:24] - Schedule a meeting to discuss CrewAI evaluation
