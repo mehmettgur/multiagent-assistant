@@ -101,7 +101,7 @@ You can then import `orchestrated_team_config.json` into AutoGen Studio for visu
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
