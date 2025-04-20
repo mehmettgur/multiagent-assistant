@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-`multiagent-assistant` is a multi-agent personal assistant prototype designed to run in a local Jupyter notebook or Python environment. Using AutoGen AgentChat’s `SelectorGroupChat` framework, it:
+`multiagent-assistant` is a multi-agent personal assistant prototype designed to run in a local Jupyter notebook or Python environment. Using AutoGen framework, it:
 
 - Breaks down complex natural-language user requests into discrete steps
 - Delegates tasks like web research, summarization, email drafting, sentiment analysis, and meeting planning to specialized agents
