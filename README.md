@@ -57,12 +57,11 @@ cd multiagent-assistant
 ```bash
 python3 -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
+
 pip install -r requirements.txt
 ```
 
 ### 3. Configure Your OpenAI API Key Configure Your OpenAI API Key
-
-The project supports two methods for providing your API key:
 
 #### Via JSON config file (`your_api_key.json`)
 
@@ -93,11 +92,11 @@ team_dict = team_component.model_dump(mode="json")
 # team_dict = team_component.dict()
 
 import json
-with open("orchestrated_team_config.json", "w", encoding="utf-8") as f:
+with open("multi_agent_config.json", "w", encoding="utf-8") as f:
     json.dump(team_dict, f, indent=2, ensure_ascii=False)
 ```
 
-You can then import `orchestrated_team_config.json` into AutoGen Studio for visualization and further editing.
+You can then import `multi_agent_config.json` into AutoGen Studio for visualization and further editing.
 
 ---
 
