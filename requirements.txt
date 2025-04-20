@@ -1,4 +1,5 @@
+openai==1.68.2
+autogen-core==0.5.1
 autogen-agentchat==0.5.1
-autogen-ext
+autogen-ext[openai]==0.5.1
 duckduckgo-search
-openai
